@@ -35,6 +35,9 @@
 
 ![конфиг kubectl](https://github.com/user-attachments/assets/accac680-cc82-45de-bb94-05afa24813f4)
 
+![cluster](https://github.com/user-attachments/assets/5478073c-a56c-4e11-af5b-a783f261ccd0)
+
+
 ![Dashboard](https://github.com/user-attachments/assets/c6cb30f1-195f-479b-b75b-5202035f937f)
 
 ---
